@@ -12,3 +12,7 @@ void mx_print_name(const char *p_name, int arg_cnt) {
 
 	return;
 }
+
+// ======= NB! =======
+// = Add main() here = 
+// ===================
